@@ -20,7 +20,7 @@ $(document).ready(function(){  //No.1(HTMLが完全に読み込まれてからfu
 
     
     let avg = (sum / subject_points.length); 
-    $("#avarage_indicate").text(avg); 
+    $("#average_indicate").text(avg); 
     return avg; 
   };
 
